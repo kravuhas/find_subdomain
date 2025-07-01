@@ -8,7 +8,9 @@ Scanner básico para identificar sites ativos e detectar falhas simples (ex: pá
 
 - Python 3.7+
 - Biblioteca requests (`pip install requests`)
-
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" width="500px" alt="Mão digitando teclado verde" />
+</p>
 ---
 
 ## Como usar
